@@ -12,7 +12,6 @@ Following are the main features of this app:
 * Contacting owner by email.
 * Viewing Property's location on Map.
 
-**Tools and Technologies**
 
 Following Tools and Technologies are used in development
 
@@ -20,6 +19,4 @@ Following Tools and Technologies are used in development
 * Express.js
 * React.js
 * MongoDB
-* Redux
-* Reactstrap
 * Passport.js
